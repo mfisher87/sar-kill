@@ -7,5 +7,5 @@ the time.
 # Installation
 
 ```
-ln -s $PWD/sar-kill /usr/local/bin/sar-kill
+sudo ln -s $PWD/sar-kill /usr/local/bin/sar-kill
 ```
