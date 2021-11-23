@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
 pkill -f "Super Animal Royale"
+pkill "explorer.exe"
